@@ -252,3 +252,16 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+---
+
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+---
+
+© 2021 Adriano.
+
