@@ -14,7 +14,7 @@ router.get("/", async (req, res) => {
         {
           model: Tag,
           through: ProductTag,
-          as: "TagRef",
+          as: "TagAlias",
         },
       ],
     });
@@ -35,13 +35,13 @@ router.get("/:id", async (req, res) => {
         {
           model: Tag,
           through: ProductTag,
-          as: "TagRef",
+          as: "TagAlias",
         },
       ],
     });
     if (!productById) {
       res.status(400).json({
-        message: "Product not found with that id!",
+        message: "ID has no product",
       });
     }
     res.status(200).json(productById);
