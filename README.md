@@ -9,7 +9,7 @@ Homework 13 - E-commerce Back End (ORM)
 
 ## Walkthrough Video 📺
 
-- [Video Link](https://www.loom.com/share/9ab524e6d8674bc4b1285cd556134fd0)
+- [Video Link](https://www.loom.com/share/fd838810f9ee4a53821ad32b1b1ea107)
 
 
 ## Project Description 📋
